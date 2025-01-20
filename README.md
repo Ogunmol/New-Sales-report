@@ -18,5 +18,6 @@ Highest Original Sales Price by Product and State: Visualize the highest sales p
 
 Features of the Dashboard:
 Interactive Visualizations: Users can explore data through various charts and tables, allowing them to drill down into the details
+
 Dynamic Filters: Use of slicers and filters to view data for specific years, states, cities, and product categories.
 
